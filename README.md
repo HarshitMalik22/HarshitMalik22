@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=HarshitMalik22&style=for-the-badge&color=FF6B6B&labelColor=000"/>
 <div align="center">
 
 # 🌟 WELCOME TO THE MATRIX 🌟
@@ -142,6 +143,6 @@
 
 ### `> CONNECTION TERMINATED... UNTIL NEXT TIME 🚀`
 
-<img src="https://komarev.com/ghpvc/?username=HarshitMalik22&style=for-the-badge&color=FF6B6B&labelColor=000"/>
+
 
 </div>
