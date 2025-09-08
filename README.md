@@ -65,18 +65,6 @@
 
 <div align="center">
 
-## 🐍 **CONTRIBUTION VORTEX** 🐍
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-*Watch my code consume the matrix...*
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌟 **TECH ARSENAL** 🌟
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,tailwind,mongodb,postgresql,docker,aws,git&theme=dark&perline=6" />
@@ -87,16 +75,6 @@
 <img src="https://img.shields.io/badge/Backend-Node_Wizardry-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000"/>
 <img src="https://img.shields.io/badge/Database-SQL_Mastery-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000"/>
 <img src="https://img.shields.io/badge/Cloud-AWS_Domination-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💀 **ACTIVITY GRAPH** 💀
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMalik22&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF"/>
 
 </div>
 
