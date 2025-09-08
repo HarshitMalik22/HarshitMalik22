@@ -16,6 +16,21 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=FULL+STACK+WIZARD+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;CODE+ARCHITECT+%F0%9F%8F%97%EF%B8%8F;DIGITAL+ALCHEMIST+%E2%9A%97%EF%B8%8F;BUG+TERMINATOR+%F0%9F%A4%96" alt="Typing SVG" />
 
 ---
+---
+
+## 🧠 ABOUT ME
+
+🎓 I'm **Harshit Malik**, an engineer-in-the-making with a B.Tech in AI & ML.  
+🛠 I specialize in building **backend systems**, **LLM/RAG pipelines**, and **cloud-native apps**.  
+🚀 My recent work spans from deploying **Generative AI APIs at scale** to building **LangChain-powered assistants** integrated with **Supabase, PostgreSQL**, and **FastAPI**.  
+📦 I’ve shipped backend systems that serve **15K+ concurrent users** and built **CI/CD-secured GenAI test platforms**.  
+🤖 I love working at the intersection of **AI systems**, **infrastructure**, and **developer experience**.  
+📚 Currently exploring **LangGraph**, **LangChain**.  
+🏆 Hackathon winner, open-source contributor, and lifelong learner.
+
+> “Make it real, make it fast, and make it scale.”
+
+---
 
 ### 🔮 **ENTERING THE DIGITAL REALM** 🔮
 
