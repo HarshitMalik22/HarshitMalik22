@@ -11,9 +11,12 @@ I’m **Harshit Malik**, an **AI full-stack developer** building **agentic AI sy
 
 ---
 
+<div align="center">
+
 ## GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitMalik22&theme=radical&hide_border=true"/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=HarshitMalik22&show_icons=true&theme=radical&hide_border=true"/>
 
 ### Top Languages
@@ -35,6 +38,8 @@ I’m **Harshit Malik**, an **AI full-stack developer** building **agentic AI sy
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/harshitmalik22  
-- **Twitter/X:** https://twitter.com/harshitmalik22  
-- **Email:** harshit@example.com
+<a href="https://www.linkedin.com/in/harshitmalik22">LinkedIn</a> •
+<a href="https://twitter.com/harshitmalik22">Twitter/X</a> •
+<a href="mailto:harshit@example.com">Email</a>
+
+</div>
