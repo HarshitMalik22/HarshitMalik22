@@ -7,7 +7,7 @@ I’m **Harshit Malik**, an **AI full-stack developer** building **agentic AI sy
 ### Projects
 
 - **[OpenRepo.xyz](https://openrepo.xyz)** — Built an AI-powered platform with **200+ MAU**, analyzing **400+ open-source repositories** to generate architectural insights, summaries, and visualizations for developers.
-- **[Blokrly.com](https://blokrly.com)** *(in development)* — Building a focus and website-blocking tool to help users enforce deep work through structured blocking, sessions, and usage analytics.
+- **[Blokrly.com](https://blokrly.com)** — Building a focus and website-blocking tool to help users enforce deep work through structured blocking, sessions, and usage analytics.
 
 ---
 
